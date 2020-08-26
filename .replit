@@ -1,0 +1,2 @@
+run = "pytest main.py"
+language = "python" # optional
