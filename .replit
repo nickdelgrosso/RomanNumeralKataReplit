@@ -1,2 +1,1 @@
-run = "pytest main.py"
-language = "python" # optional
+run = "python -m pytest main.py"
